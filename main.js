@@ -39,6 +39,17 @@ const questions = [
             {text: 'Nepal', correct: false},
             {text: 'Saint of lome', correct: false},
         ]
+    },
+
+
+    {
+        question: ' Whats the full meaning of HTML ?',
+        answers : [
+            {text: 'Hyper Text Mark up Language', correct: true},
+            {text: 'Hyper Test Mark up Language', correct: false},
+            {text: 'Higher Text Mark up Lnaguage', correct: false},
+            {text: 'hyper Mark up Language', correct: false},
+        ]
     }
 ];
 
